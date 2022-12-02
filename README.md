@@ -1,3 +1,4 @@
+<h3>Expensify</h3>
 
 Expensify is an expense manager app which is created using flutter and dart programming. 
 
